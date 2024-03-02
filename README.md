@@ -1,5 +1,5 @@
 <!--### Hi there, I'm Yulia 👋-->
-<h1 align="center">Hi there, I'm <a href="https://vk.com/id276018793" target="blank">Yulia</a>
+<h1 align="center">Hi there, I'm <a href="https://vk.com/id276018793">Yulia</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a second-year undergraduate student at Oryol State University</h3>
 <hr>
@@ -30,9 +30,9 @@ I am working with these languages</h4>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-![](https://komarev.com/ghpvc/?username=KotGregor)
+![](https://komarev.com/ghpvc/?username=Yulia222805)
 <!--
-**KotGregor/KotGregor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yulia222805/Yulia222805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
